@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/genshin_docs/precache-manifest.1cada0bbacaf8aeddb3b763a7411252f.js"
+  "/genshin_docs/precache-manifest.0b0e6a54bc6e5981cb76ee2f6639caa6.js"
 );
 
 self.addEventListener('message', (event) => {
