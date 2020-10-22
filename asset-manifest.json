@@ -3,8 +3,8 @@
     "static/js/0.a168b2ea.chunk.js": "/genshin_docs/static/js/0.a168b2ea.chunk.js",
     "static/js/0.a168b2ea.chunk.js.map": "/genshin_docs/static/js/0.a168b2ea.chunk.js.map",
     "main.css": "/genshin_docs/static/css/main.74db2b80.chunk.css",
-    "main.js": "/genshin_docs/static/js/main.c396d9ef.chunk.js",
-    "main.js.map": "/genshin_docs/static/js/main.c396d9ef.chunk.js.map",
+    "main.js": "/genshin_docs/static/js/main.fc0bf333.chunk.js",
+    "main.js.map": "/genshin_docs/static/js/main.fc0bf333.chunk.js.map",
     "runtime-main.js": "/genshin_docs/static/js/runtime-main.4a8401ca.js",
     "runtime-main.js.map": "/genshin_docs/static/js/runtime-main.4a8401ca.js.map",
     "static/css/3.22d6b5ec.chunk.css": "/genshin_docs/static/css/3.22d6b5ec.chunk.css",
@@ -17,7 +17,7 @@
     "static/js/6.8af84ae7.chunk.js": "/genshin_docs/static/js/6.8af84ae7.chunk.js",
     "static/js/6.8af84ae7.chunk.js.map": "/genshin_docs/static/js/6.8af84ae7.chunk.js.map",
     "index.html": "/genshin_docs/index.html",
-    "precache-manifest.dd1b93413903e96c86e3b39a792fe56b.js": "/genshin_docs/precache-manifest.dd1b93413903e96c86e3b39a792fe56b.js",
+    "precache-manifest.f790ea3119fa43978da2e06f1f112df3.js": "/genshin_docs/precache-manifest.f790ea3119fa43978da2e06f1f112df3.js",
     "service-worker.js": "/genshin_docs/service-worker.js",
     "static/css/3.22d6b5ec.chunk.css.map": "/genshin_docs/static/css/3.22d6b5ec.chunk.css.map",
     "static/css/main.74db2b80.chunk.css.map": "/genshin_docs/static/css/main.74db2b80.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/3.22d6b5ec.chunk.css",
     "static/js/3.8eed5907.chunk.js",
     "static/css/main.74db2b80.chunk.css",
-    "static/js/main.c396d9ef.chunk.js"
+    "static/js/main.fc0bf333.chunk.js"
   ]
 }
