@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b329e34b434b1f77f3b66723b187d8d",
+    "revision": "b83e0bfbaf401b213b24638bf4b842bb",
     "url": "/genshin_docs/index.html"
   },
   {
