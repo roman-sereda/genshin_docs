@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b83e0bfbaf401b213b24638bf4b842bb",
+    "revision": "1469e4c5d23c95db9f9437e973bc1d00",
     "url": "/genshin_docs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genshin_docs/static/css/3.22d6b5ec.chunk.css"
   },
   {
-    "revision": "179253e27f5234dc1fb1",
+    "revision": "72a03f33090e646ed1af",
     "url": "/genshin_docs/static/css/main.74db2b80.chunk.css"
   },
   {
@@ -32,12 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/genshin_docs/static/js/5.e54653c3.chunk.js"
   },
   {
-    "revision": "179253e27f5234dc1fb1",
-    "url": "/genshin_docs/static/js/main.ff5c5a78.chunk.js"
+    "revision": "ca7dd2eb48b8004802c5",
+    "url": "/genshin_docs/static/js/6.8af84ae7.chunk.js"
   },
   {
-    "revision": "c6f16586b14da3fa5b1b",
-    "url": "/genshin_docs/static/js/runtime-main.87d787b9.js"
+    "revision": "72a03f33090e646ed1af",
+    "url": "/genshin_docs/static/js/main.c396d9ef.chunk.js"
+  },
+  {
+    "revision": "6327dfe42209d7673d4e",
+    "url": "/genshin_docs/static/js/runtime-main.4a8401ca.js"
   },
   {
     "revision": "0f72b1ce5ac835e488a225d9d43b6da7",
@@ -46,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6b662c37721f0b5c49bb9dee1a7d63d",
     "url": "/genshin_docs/static/media/energy.c6b662c3.md"
+  },
+  {
+    "revision": "801ad590a9a4c729d6662452e64f92f9",
+    "url": "/genshin_docs/static/media/resistance.801ad590.md"
   }
 ]);
